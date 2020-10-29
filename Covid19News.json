@@ -3,23 +3,23 @@
     "date":"19-10-2020",
     "township" :[
         {
-        "townshipname" : "AungMyaeTharZan",
+        "townshipname" : "အောင်မြေသာဇံ",
         "effectedcount": 35
         },
         {
-        "townshipname" : "MahaAungMyae",
+        "townshipname" : "မဟာအောင်မြေ",
         "effectedcount": 20
         },
         {
-        "townshipname" : "MahaAungMyae",
+        "townshipname" : "မဟာအောင်မြေ",
         "effectedcount": 130
         },
         {
-        "townshipname" : "ChanAyeTharZan",
+        "townshipname" : "ချမ်းအေးသာစံ",
         "effectedcount": 50
         },
          {
-        "townshipname" : "Amarapura",
+        "townshipname" : "အမရပူရ",
         "effectedcount": 50
         }
      
