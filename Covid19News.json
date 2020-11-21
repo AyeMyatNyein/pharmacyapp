@@ -1,5 +1,71 @@
 [
     {
+    "date":"21-11-2020",
+    "township" :[
+        {
+        "townshipname" : "ချမ်းမြသာစည်",
+        "effectedcount": 21
+        },
+        {
+        "townshipname" : "အမရပူရ",
+        "effectedcount": 18
+        },
+        {
+        "townshipname" : "ချမ်းအေးသာစံ",
+        "effectedcount": 18
+        },
+        {
+        "townshipname" : "မဟာအောင်မြေ",
+        "effectedcount": 16
+        },
+        {
+         "townshipname" : "အောင်မြေသာစံ",
+         "effectedcount": 14
+        },
+        {
+        "townshipname" : "ပုသိမ်ကြီး",
+        "effectedcount": 8
+        },
+        {
+        "townshipname" : "ပြည်ကြီးတံခွန်",
+        "effectedcount": 6
+        },
+        {
+        "townshipname" : "တံတားဦး",
+        "effectedcount": 2
+        },
+        {
+        "townshipname" : "မိတ္ထီလာ",
+        "effectedcount": 2
+        },
+        {
+           "townshipname" : "ရမည်းသင်း",
+           "effectedcount": 1
+        },
+        {
+         "townshipname" : "မတ္တရာ",
+         "effectedcount": 1
+        },
+        {
+        "townshipname" : "မလှိုင်",
+        "effectedcount": 1
+        },
+        {
+        "townshipname" : "ပျော်ဘွယ်",
+        "effectedcount": 1
+        },
+        {
+        "townshipname" : "ပြင်ဦးလွင်",
+        "effectedcount": 1
+        },
+        {
+        "townshipname" : "စဉ့်ကိုင်",
+        "effectedcount": 1
+        }
+        ]
+    },
+    
+    {
     "date":"20-11-2020",
     "township" :[
         {
